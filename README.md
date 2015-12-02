@@ -1,1 +1,2 @@
 # Skalbard
+# Stub README file
